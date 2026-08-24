@@ -1,0 +1,5 @@
+Subscription\demo_subs\service\SubscriptionService.class
+Subscription\demo_subs\model\Subscription.class
+Subscription\demo_subs\repository\SubscriptionRepository.class
+Subscription\demo_subs\DemoSubsApplication.class
+Subscription\demo_subs\controller\SubscriptionController.class
